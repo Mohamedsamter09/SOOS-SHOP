@@ -1,0 +1,11 @@
+body{
+    background-image: url(background.jpeg);color: black;
+}
+
+.service-video {
+    width: 100%;
+    max-width: 480px;
+    max-height: 240px;
+    display: block;
+    margin: 20px 0;
+}
